@@ -120,7 +120,7 @@ Python is used by various industries and companies (including Google). It has be
 ### Installing Python
 
 To run a python script you need to install python. Let's [download](https://www.python.org/) python.
-If your are a windows user. Click the button encircled in red.
+If you are a windows user. Click the button encircled in red.
 
 [![installing on Windows](./images/installing_on_windows.png)](https://www.python.org/)
 
